@@ -1,7 +1,7 @@
 # Setup instructions for tutorials
 
 This repository contains setup instructions for tutorials that I give.
-Each folder contains informations related to a tutorial.
+Each folder contains information related to a tutorial.
 
 ## Git and GitHub
 If you have not set up git and GitHub yet, please follow the following guides:
