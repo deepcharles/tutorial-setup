@@ -12,6 +12,12 @@ If you have not set up git and GitHub yet, please follow the following guides:
 A small cheatsheet for git: [link](https://github.com/henryiii/compclass/blob/master/classes/week3/HowGitWorks2_0b.pdf).
 
 ## Typical workflows
+
+### Create an issue
+
+Please feel free to open an issue if you think something is wrong or could be improved!
+To that end, go to the [Issues](https://github.com/deepcharles/tutorial-setup/issues) section of this repository.
+
 ### Fork and create a pull request
 
 ([Extensive guide](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo))
