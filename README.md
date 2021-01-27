@@ -1,5 +1,9 @@
 # Setup instructions for tutorials
 
+This repository contains setup instructions for tutorials that I give.
+Each folder contains informations related to a tutorial.
+
+## Git and GitHub
 If you have not set up git and GitHub yet, please follow the following guides:
 
 - [Set up Git](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
@@ -7,7 +11,8 @@ If you have not set up git and GitHub yet, please follow the following guides:
 
 A small cheatsheet for git: [link](https://github.com/henryiii/compclass/blob/master/classes/week3/HowGitWorks2_0b.pdf).
 
-## Fork and create a pull request
+## Typical workflows
+### Fork and create a pull request
 
 ([Extensive guide](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo))
 
