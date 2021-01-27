@@ -9,6 +9,9 @@ repos:
     - id: detect-private-key  # Detects the presence of private keys.
     - id: check-symlinks
     - id: check-toml
+    - id: requirements-txt-fixer
+    - id: no-commit-to-branch
+      args: ['--branch', 'main']
 - repo: https://github.com/pre-commit/pygrep-hooks
   rev: v1.7.0
   hooks:
@@ -23,11 +26,11 @@ repos:
   hooks:
     - id: flake8
 -   repo: https://github.com/asottile/blacken-docs
-    rev: v1.9.1
+    rev: v1.9.2
     hooks:
     - id: blacken-docs
 - repo: https://github.com/nbQA-dev/nbQA
-  rev: 0.5.6
+  rev: 0.5.7
   hooks:
     - id: nbqa-black
       args: [--nbqa-mutate]
