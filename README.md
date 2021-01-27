@@ -17,7 +17,7 @@ A small cheatsheet for git: [link](https://github.com/henryiii/compclass/blob/ma
 ([Extensive guide](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo))
 
 A fork is a copy (that you own) of a repository (that you do not own).
-To fork a this repostory, click **Fork** in the top-right corner of the page.
+To fork a this repostory, click on **Fork** in the top-right corner of the page.
 
 ![](https://docs.github.com/assets/images/help/repository/fork_button.jpg)
 
@@ -31,7 +31,7 @@ Create a branch called `mybranch` using `git checkout -b mybranch` (you can obvi
 
 Make any change you want, then commit and push them on your branch.
 
-[To create a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork), return the original repository page (https://github.com/deepcharles/tutorial-setup) and above the list of files, click **Pull request**.
+[To create a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork), return the original repository page (https://github.com/deepcharles/tutorial-setup) and above the list of files, click on **Pull request**.
 
 ![](https://docs.github.com/assets/images/help/pull_requests/pull-request-start-review-button.png)
 
